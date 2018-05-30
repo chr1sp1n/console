@@ -1,5 +1,5 @@
 <?php
-namespace Chr1Sp1n\Console;
+namespace Chr1sp1n;
 
 class Console{
 
