@@ -32,7 +32,7 @@ class Console{
 	 * @return void
 	 */
 	public static function write(string $text, bool $nl=true){
-		print_r($text.(($nl)?PHP_EOL:''));
+		print_r( $text. ( ($nl) ? PHP_EOL : '' ) );
 	}
 
 	/**
