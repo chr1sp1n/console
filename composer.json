@@ -15,7 +15,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Chr1sp1n\\": "src/"
+			"Chr1Sp1n\\": "src/"
 		}
 	}
 }
