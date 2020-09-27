@@ -3,7 +3,6 @@
 	"description": "Extend php readline command",
 	"type": "library",
 	"license": "GNU GENERAL PUBLIC LICENSE",
-	"version": "1.0.1",
 	"authors": [
 		{
 			"name": "chr1sp1n",
